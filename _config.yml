@@ -1,2 +1,3 @@
 include:
   - *symlink*
+remote_theme: github-pages-test-user/remote-theme
