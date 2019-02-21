@@ -1,3 +1,0 @@
-include:
-  - '*symlink*'
-remote_theme: "mmistakes/minimal-mistakes@4.14.1"
